@@ -1,68 +1,82 @@
-# <h1>Hi, I'm Towhid! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Towhidul Ahmed<br/>Cybersecurity Researcher | Embedded Systems Analyst | Python Developer</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+🎓 M.Sc. in Electrical Engineering & IT — University of Rostock  
+📍 Based in Germany  
+🛠️ Firmware & Hardware Security | Protocol Analysis | Blue Team Skills
 
-- <b>Security Audit</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🔬 Current Focus Areas
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Reverse engineering and static analysis of embedded firmware (ARMv7, Binwalk, Ghidra)
+- Communication protocol analysis in OT systems (1-Wire, I2C)
+- Detecting and exploiting vulnerabilities in mechatronic and IoT devices
+- Cyber threat intelligence using MITRE ATT&CK, YARA rules, OpenCTI, MISP
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🧪 Academic Projects & Research
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 📍 Master's Thesis *(Apr 2025 – Present)*  
+**Automated Detection of Vulnerable Firmware in OT Devices**  
+- Developed a signature-based system to detect known CVEs from unpacked firmware images  
+- Reverse engineered binaries to identify insecure implementations  
+- Tested workflow on industrial firmware and documented vulnerable code patterns
+
+### 📍 Research Project *(May – July 2024)*  
+**Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**  
+- Captured and decoded key-lock communication using a Logic Analyzer and Python tools  
+- Identified static identifiers and checksum behaviors in partially protected messages  
+- Demonstrated replay/forwarding attack feasibility  
+- Proposed and validated cryptographic countermeasures via protocol timing analysis
+
+---
+
+## 🛡️ Skills & Tools
+
+**Cyber Threat Intelligence**: MISP · OpenCTI · MITRE ATT&CK · YARA  
+**Network Security**: Wireshark · Zeek · Nmap · Snort · TShark · BRIM · NetworkMiner  
+**Reverse Engineering**: Ghidra · Binwalk · Firmware unpacking · Assembly (ARMv7)  
+**Programming & Scripting**: Python · Bash · Regex · Protocol parsing  
+**Systems & Cloud**: Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)  
+**Soft Skills**: Technical documentation · Teamwork · Problem-solving
+
+---
+
+## 🧾 Certifications
+
+- Blue Team Junior Analyst — *Security Blue Team*  
+- Reverse Engineering und Forensics — *University Module*  
+- IT Technical Support Fundamentals — *Coursera*  
+- A Deep Dive into SSL and TLS — *Udemy*  
+- Machine Learning with Python — *Coursera & IBM*
+
+---
+
+## 📂 Featured GitHub Project
+
+### 🔓 [1-Wire Protocol Communication Analysis](https://github.com/towhidulahmed/1wire-lock-analysis)
+- Captured and decoded embedded communication between key and lock
+- Created a Python tool to extract bytes and detect identifiers like system ID, key ID
+- Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
+
+---
+
+## 🌐 Languages
+
+- **Bengali**: Native  
+- **English**: C1 — Fluent (written & spoken)  
+- **German**: A2 — Basic proficiency (in progress)
+
+---
+
+## 🤝 Connect with Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/towhidulahmed-rostock)  
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/towhidulahmed)
+
+<br/><br/>
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**towhidulahmed/towhidulahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**towhidulahmed/towhidulahmed** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
