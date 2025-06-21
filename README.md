@@ -32,14 +32,44 @@
 
 ---
 
+## 📂 Featured GitHub Projects
+
+### 🔓 [1-Wire Protocol Communication Analysis](https://github.com/towhidulahmed/1wire-lock-analysis)
+- Captured and decoded embedded communication between key and lock
+- Created a Python tool to extract bytes and detect identifiers like system ID, key ID
+- Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
+
+### 🐚 [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
+A small collection of helpful Bash scripts for automation and security tasks.
+
+- `password_generator.sh`: Creates cryptographically strong passwords using OpenSSL.  
+- `script_backup.sh`: Automates Git commit and push for easy version backups.  
+
+Each script is executable and includes simple user prompts for seamless CLI interaction.
+
+---
+
 ## 🛡️ Skills & Tools
 
-**Cyber Threat Intelligence**: MISP · OpenCTI · MITRE ATT&CK · YARA  
-**Network Security**: Wireshark · Zeek · Nmap · Snort · TShark · BRIM · NetworkMiner  
-**Reverse Engineering**: Ghidra · Binwalk · Firmware unpacking · Assembly (ARMv7)  
-**Programming & Scripting**: Python · Bash · Regex · Protocol parsing  
-**Systems & Cloud**: Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)  
-**Soft Skills**: Technical documentation · Teamwork · Problem-solving
+### 🧠 Cyber Threat Intelligence  
+MISP · OpenCTI · MITRE ATT&CK · YARA
+
+### 🌐 Network Security  
+Wireshark · Zeek · Nmap · Snort · TShark · BRIM · NetworkMiner
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/2048px-Ghidra_logo.svg.png" width="24"/> Reverse Engineering  
+Ghidra · Binwalk · Firmware unpacking · Assembly (ARMv7)
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24"/>  Programming & Scripting  
+Bash · Python 
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24"/> Systems & Cloud  
+ Kali Linux · Ubuntu · Windows  
+ VirtualBox · VMware · Microsoft Azure (fundamentals)
+
+### 🤝 Soft Skills  
+Technical documentation · Teamwork · Problem-solving
+
 
 ---
 
@@ -50,15 +80,6 @@
 - IT Technical Support Fundamentals — *Coursera*  
 - A Deep Dive into SSL and TLS — *Udemy*  
 - Machine Learning with Python — *Coursera & IBM*
-
----
-
-## 📂 Featured GitHub Project
-
-### 🔓 [1-Wire Protocol Communication Analysis](https://github.com/towhidulahmed/1wire-lock-analysis)
-- Captured and decoded embedded communication between key and lock
-- Created a Python tool to extract bytes and detect identifiers like system ID, key ID
-- Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
 
 ---
 
