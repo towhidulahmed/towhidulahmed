@@ -36,7 +36,7 @@
 
 ## 📂 Featured GitHub Projects
 
-### 🔓 [1-Wire Protocol Communication Analysis](https://github.com/towhidulahmed/1wire-decoder-analysis)
+### 🔓 [Forwarding-Attack on a Mechatronic Locking System](https://github.com/towhidulahmed/1wire-decoder-analysis)
 - Captured and decoded embedded communication between key and lock
 - Created a Python tool to extract bytes and detect identifiers like system ID, key ID
 - Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
