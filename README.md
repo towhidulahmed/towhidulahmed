@@ -89,15 +89,3 @@ Technical documentation · Teamwork · Problem-solving
 - **English**: C1 — Fluent (written & spoken)  
 - **German**: A2 — Basic proficiency (in progress)
 
----
-
-## 🤝 Connect with Me
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/towhidulahmed-rostock)  
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/towhidulahmed)
-
-<br/><br/>
-
-<!--
-**towhidulahmed/towhidulahmed** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
