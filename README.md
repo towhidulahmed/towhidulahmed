@@ -23,7 +23,7 @@
 - Reverse engineered binaries to identify insecure implementations  
 - Tested workflow on industrial firmware and documented vulnerable code patterns
 
-### 📍 Research Project *(May – July 2024)*  
+### 📍 Research Project *(May 2024 – July 2024)*  
 **Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**  
 - Captured and decoded key-lock communication using a Logic Analyzer and Python tools  
 - Identified static identifiers and checksum behaviors in partially protected messages  
