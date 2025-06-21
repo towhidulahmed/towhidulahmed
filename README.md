@@ -41,7 +41,7 @@
 - Created a Python tool to extract bytes and detect identifiers like system ID, key ID
 - Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
 
-### 🐚 [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
+### >_ [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
 A small collection of helpful Bash scripts for automation and security tasks.
 
 - `password_generator.sh`: Creates cryptographically strong passwords using OpenSSL.  
