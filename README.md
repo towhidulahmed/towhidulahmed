@@ -53,7 +53,7 @@ Each script is executable and includes simple user prompts for seamless CLI inte
 
 ## 🛡️ Skills & Tools
 
-### 🧠 Cyber Threat Intelligence  
+### 🕵️‍♂️ Cyber Threat Intelligence  
 MISP · OpenCTI · MITRE ATT&CK · YARA
 
 ### 🌐 Network Security  
