@@ -69,9 +69,6 @@ Bash · Python
  Kali Linux · Ubuntu · Windows  
  VirtualBox · VMware · Microsoft Azure (fundamentals)
 
-### 🤝 Soft Skills  
-Technical documentation · Teamwork · Problem-solving
-
 
 ---
 
