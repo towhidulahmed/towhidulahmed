@@ -49,7 +49,7 @@ A small collection of helpful Bash scripts for automation and security tasks.
 
 Each script is executable and includes simple user prompts for seamless CLI interaction.
 
-### 🔒 [Nessus Vulnerability Scan & Metasploit Exploitation Report](https://github.com/towhidulahmed/nessus-metasploit-report)  
+### 🔒 [Nessus Vulnerability Scan & Metasploit Exploitation Report](https://github.com/towhidulahmed/nessus-metasploit-audit)  
 - Comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus and Metasploit 2 modules  
 - Identified 71 vulnerabilities including critical backdoors and weak authentication issues  
 - Included detailed remediation steps and analysis of exploitability  
