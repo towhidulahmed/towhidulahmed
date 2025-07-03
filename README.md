@@ -2,17 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29A3F7&vCenter=true&width=435&lines=Cybersecurity+Researcher" alt="Typing SVG" /></a>
 
-<a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe Badge" />
-</a>
-
 🎓 M.Sc. in Electrical Engineering & IT — University of Rostock  
-📍 Based in Germany  
-🛠️ Firmware & Hardware Security | Protocol Analysis | Blue Team Skills
 
 ---
 
-## 🔬 Current Focus Areas
+## Current Focus Areas
 
 - Reverse engineering and static analysis of embedded firmware (ARMv7, Binwalk, Ghidra)
 - Communication protocol analysis in OT systems (1-Wire, I2C)
@@ -21,15 +15,15 @@
 
 ---
 
-## 🧪 Academic Projects & Research
+## Academic Projects & Research
 
-### 📍 Master's Thesis *(Apr 2025 – Present)*  
+### Master's Thesis *(Apr 2025 – Present)*  
 **Automated Detection of Vulnerable Firmware in OT Devices**  
 - Developed a signature-based system to detect known CVEs from unpacked firmware images  
 - Reverse engineered binaries to identify insecure implementations  
 - Tested workflow on industrial firmware and documented vulnerable code patterns
 
-### 📍 Research Project *(May 2024 – July 2024)*  
+### Research Project *(May 2024 – July 2024)*  
 **Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**  
 - Captured and decoded key-lock communication using a Logic Analyzer and Python tools  
 - Identified static identifiers and checksum behaviors in partially protected messages  
@@ -38,7 +32,7 @@
 
 ---
 
-## 📂 Featured GitHub Projects
+## Featured GitHub Projects
 
 ### 🔓 [Forwarding-Attack on a Mechatronic Locking System](https://github.com/towhidulahmed/1wire-decoder-analysis)
 - Captured and decoded embedded communication between key and lock
@@ -62,6 +56,10 @@ Each script is executable and includes simple user prompts for seamless CLI inte
 ---
 
 ## 🛡️ Skills & Tools
+### Top 7% in TryHackMe Platform
+<a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe Badge" />
+</a>
 
 ### 🕵️‍♂️ Cyber Threat Intelligence  
 MISP · OpenCTI · MITRE ATT&CK · YARA
@@ -83,13 +81,12 @@ Bash · Python
 ---
 
 ## 🧾 Certifications
-
 - Blue Team Junior Analyst — *Security Blue Team*  
 - Reverse Engineering und Forensics — *University Module*  
 - IT Technical Support Fundamentals — *Coursera*  
 - A Deep Dive into SSL and TLS — *Udemy*  
 - Machine Learning with Python — *Coursera & IBM*
-
+  
 ---
 
 ## 🌐 Languages
