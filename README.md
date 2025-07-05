@@ -1,6 +1,6 @@
 <h1>Hi, I'm Towhidul Ahmed 👋 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29A3F7&vCenter=true&width=435&lines=Cybersecurity+Researcher" alt="Typing SVG" /></a>
+<a href="https://github.com/towhidulahmed/towhidulahmed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29A3F7&vCenter=true&width=435&lines=Cybersecurity+Researcher" alt="Typing SVG" /></a>
 
 🎓 M.Sc. in Electrical Engineering & IT — University of Rostock  
 
