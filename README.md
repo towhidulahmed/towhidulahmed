@@ -39,6 +39,12 @@
 - Created a Python tool to extract bytes and detect identifiers like system ID, key ID
 - Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
 
+### 🔍 [OT Firmware Vulnerability Detection](https://github.com/towhidulahmed/ot-firmware-vulnerability-detection)
+- Automated signature-based system to detect known CVEs in unpacked firmware images
+- Reverse engineering of embedded binaries to identify insecure implementations
+- Tested on industrial firmware with documented vulnerable code patterns
+- Tools for static analysis of OT/ICS firmware security
+
 ### >_ [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
 A small collection of helpful Bash scripts for automation and security tasks.
 
