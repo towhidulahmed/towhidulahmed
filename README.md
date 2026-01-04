@@ -56,7 +56,7 @@ Each script is executable and includes simple user prompts for seamless CLI inte
 ---
 
 ## 🛡️ Skills & Tools
-### Top 7% in TryHackMe Platform
+### Top 5% in TryHackMe Platform
 <a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe Badge" />
 </a>
