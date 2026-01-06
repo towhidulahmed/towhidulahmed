@@ -1,35 +1,44 @@
 # Towhidul Ahmed
 
-**Junior SOC Analyst | Security Researcher | M.Sc. Candidate in Electrical Engineering & IT**  
-*University of Rostock, Germany*
+**Junior SOC Analyst | Blue Team | Security Researcher**  
+*M.Sc. in Electrical Engineering & IT (IT & Security Focus)*  
+📍 Cologne, Germany
 
 ---
 
-I'm a cybersecurity enthusiast focused on embedded systems security, firmware analysis, and threat intelligence. Currently working on my master's thesis involving automated vulnerability detection in operational technology (OT) devices.
+SOC / Blue Team analyst focused on alert triage, log correlation, incident escalation, and threat detection. Recent M.Sc. graduate with hands-on experience in SIEM operations, malware analysis, network traffic analysis, and OT security.
 
-My background includes hands-on experience with reverse engineering, network security analysis, and penetration testing. I enjoy dissecting how things work at the low level—particularly embedded systems and their communication protocols.
+I enjoy working with logs, hunting for suspicious patterns, and building clear investigation notes that help teams respond faster. My background includes reverse engineering embedded systems, analyzing firmware vulnerabilities, and understanding how devices communicate at the protocol level.
 
 ---
 
 ## What I'm Working On
 
-**Reverse Engineering & Firmware Analysis**  
-Analyzing embedded firmware for ARMv7 architectures using Binwalk and Ghidra, looking for vulnerabilities and insecure implementations in IoT and industrial devices.
+**SOC & Blue Team Operations**  
+Alert triage, log correlation, incident escalation, and basic threat hunting using SIEM platforms like Splunk, Elastic Stack, and Wazuh.
+
+**Malware Analysis & Reverse Engineering**  
+Static and dynamic analysis of malicious samples, behavior profiling, IOC extraction, and malware classification using Ghidra, sandboxes, and YARA rules.
+
+**Network Traffic Analysis**  
+Protocol analysis and detection of suspicious traffic using Wireshark, Zeek, Snort, and Nmap.
 
 **OT/ICS Security**  
-Studying communication protocols like 1-Wire and I2C in operational technology systems, understanding how devices communicate and where security gaps exist.
-
-**Threat Intelligence**  
-Building skills with MITRE ATT&CK framework, YARA rules, OpenCTI, and MISP to understand threat actor behaviors and improve detection capabilities.
+Firmware analysis and communication protocol review (1-Wire, I2C) in operational technology systems.
 
 ---
 
 ## Research & Academic Work
 
-### Master's Thesis — *April 2025 – Present*
+### Master's Thesis — *April 2025 – September 2025*
 **Automated Detection of Vulnerable Firmware in OT Devices**
 
-Developing a signature-based system to automatically identify known CVEs in unpacked firmware images. This involves reverse engineering binaries to spot insecure implementations and testing the workflow against real industrial firmware to document common vulnerability patterns.
+Developed a signature-based system to automatically identify known CVEs in unpacked firmware images. Detected CVE-2015-4590 (ArduinoJson buffer overflow) in STM32 L476RG firmware with 76.7% accuracy via YARA signatures extracted from Ghidra. Explored Control Flow Graph isomorphism for cross-architecture vulnerability detection across STM32 and ESP8266 builds.
+
+**Key achievements:**
+- Reverse-engineered STM32 firmware with Ghidra, extracted 8-byte machine code signature for vulnerable function
+- Developed YARA rules achieving 76.7% detection accuracy (23 of 30 vulnerable builds), 0% false positives
+- Implemented CFG-based detection using graph isomorphism across ARM and Xtensa architectures
 
 ### Research Project — *May 2024 – July 2024*
 **Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**
@@ -58,23 +67,30 @@ Performed a comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus, then
 
 ## Technical Skills
 
-**Threat Intelligence & Detection**  
-MISP · OpenCTI · MITRE ATT&CK · YARA · Snort
+**SOC & Blue Team Operations**  
+Alert triage · Log correlation · Incident escalation · Threat hunting  
+Splunk · Elastic Stack (ELK) · Wazuh · MISP · OpenCTI · MITRE ATT&CK
 
-**Network Analysis**  
-Wireshark · Zeek · Nmap · TShark · BRIM · NetworkMiner
+**Malware Analysis & OS Internals**  
+Static & dynamic analysis · Behavior profiling · IOC extraction  
+Ghidra · Sandboxes · YARA rules · Windows Internals · ARM Assembly
 
-**Reverse Engineering**  
-Ghidra · Binwalk · Firmware extraction · ARM assembly (ARMv7)
+**Network Traffic Analysis**  
+Wireshark · Zeek · Nmap · Snort · TShark · BRIM · NetworkMiner
+
+**OT / Embedded Security**  
+Firmware extraction · Protocol analysis (1-Wire, I2C)  
+Binwalk · Logic Analyzer · Oscilloscope · ST-Link · OpenOCD
 
 **Programming & Scripting**  
-Python · Bash scripting
+Python · C · Bash scripting
 
 **Systems & Platforms**  
-Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)
+Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)  
+Git / GitHub
 
 ### TryHackMe Profile
-Ranked in the top 5% on TryHackMe — hands-on labs covering penetration testing, privilege escalation, and defensive security.
+Ranked in the top 5% worldwide (December 2025) — hands-on labs covering penetration testing, privilege escalation, and defensive security.
 
 <a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe" />
@@ -84,11 +100,18 @@ Ranked in the top 5% on TryHackMe — hands-on labs covering penetration testing
 
 ## Certifications & Training
 
+- **TryHackMe** — Top 5% Worldwide (December 2025)
+- **Vulnerability Management with Nessus** — LinkedIn Learning
+- **Security Testing: Nmap Security Scanning** — LinkedIn Learning
+- **Azure: Create a Virtual Machine and Deploy a Web Server** — Coursera
 - **Blue Team Junior Analyst** — Security Blue Team  
 - **Reverse Engineering und Forensics** — University of Rostock
 - **IT Technical Support Fundamentals** — Coursera  
 - **A Deep Dive into SSL and TLS** — Udemy  
 - **Machine Learning with Python** — Coursera & IBM
+- **Neural Networks and Deep Learning** — Coursera
+
+[View All Certificates](https://github.com/towhidulahmed/certificates)
 
 ---
 
