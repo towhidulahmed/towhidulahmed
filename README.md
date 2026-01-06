@@ -1,97 +1,100 @@
-<h1>Hi, I'm Towhidul Ahmed 👋 </h1>
+# Towhidul Ahmed
 
-<a href="https://github.com/towhidulahmed/towhidulahmed"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29A3F7&vCenter=true&width=435&lines=Cybersecurity+Researcher" alt="Typing SVG" /></a>
-
-🎓 M.Sc. in Electrical Engineering & IT — University of Rostock  
-
----
-
-## Current Focus Areas
-
-- Reverse engineering and static analysis of embedded firmware (ARMv7, Binwalk, Ghidra)
-- Communication protocol analysis in OT systems (1-Wire, I2C)
-- Detecting and exploiting vulnerabilities in mechatronic and IoT devices
-- Cyber threat intelligence using MITRE ATT&CK, YARA rules, OpenCTI, MISP
+**Junior SOC Analyst | Security Researcher | M.Sc. Candidate in Electrical Engineering & IT**  
+*University of Rostock, Germany*
 
 ---
 
-## Academic Projects & Research
+I'm a cybersecurity enthusiast focused on embedded systems security, firmware analysis, and threat intelligence. Currently working on my master's thesis involving automated vulnerability detection in operational technology (OT) devices.
 
-### Master's Thesis *(Apr 2025 – Present)*  
-**Automated Detection of Vulnerable Firmware in OT Devices**  
-- Developed a signature-based system to detect known CVEs from unpacked firmware images  
-- Reverse engineered binaries to identify insecure implementations  
-- Tested workflow on industrial firmware and documented vulnerable code patterns
-
-### Research Project *(May 2024 – July 2024)*  
-**Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**  
-- Captured and decoded key-lock communication using a Logic Analyzer and Python tools  
-- Identified static identifiers and checksum behaviors in partially protected messages  
-- Demonstrated replay/forwarding attack feasibility  
-- Proposed and validated cryptographic countermeasures via protocol timing analysis
+My background includes hands-on experience with reverse engineering, network security analysis, and penetration testing. I enjoy dissecting how things work at the low level—particularly embedded systems and their communication protocols.
 
 ---
 
-## Featured GitHub Projects
+## What I'm Working On
 
-### 🔓 [Forwarding-Attack on a Mechatronic Locking System](https://github.com/towhidulahmed/1wire-decoder-analysis)
-- Captured and decoded embedded communication between key and lock
-- Created a Python tool to extract bytes and detect identifiers like system ID, key ID
-- Analyzed bit-level timings and vulnerabilities in proprietary hardware protocols
+**Reverse Engineering & Firmware Analysis**  
+Analyzing embedded firmware for ARMv7 architectures using Binwalk and Ghidra, looking for vulnerabilities and insecure implementations in IoT and industrial devices.
 
-### >_ [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
-A small collection of helpful Bash scripts for automation and security tasks.
+**OT/ICS Security**  
+Studying communication protocols like 1-Wire and I2C in operational technology systems, understanding how devices communicate and where security gaps exist.
 
-- `password_generator.sh`: Creates cryptographically strong passwords using OpenSSL.  
-- `script_backup.sh`: Automates Git commit and push for easy version backups.  
-
-Each script is executable and includes simple user prompts for seamless CLI interaction.
-
-### 🔒 [Nessus Vulnerability Scan & Metasploit Exploitation Report](https://github.com/towhidulahmed/nessus-metasploit-audit)  
-- Comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus and Metasploit 2 modules  
-- Identified 71 vulnerabilities including critical backdoors and weak authentication issues  
-- Included detailed remediation steps and analysis of exploitability  
-- Useful resource for learning vulnerability management and penetration testing workflows
+**Threat Intelligence**  
+Building skills with MITRE ATT&CK framework, YARA rules, OpenCTI, and MISP to understand threat actor behaviors and improve detection capabilities.
 
 ---
 
-## 🛡️ Skills & Tools
-### Top 5% in TryHackMe Platform
+## Research & Academic Work
+
+### Master's Thesis — *April 2025 – Present*
+**Automated Detection of Vulnerable Firmware in OT Devices**
+
+Developing a signature-based system to automatically identify known CVEs in unpacked firmware images. This involves reverse engineering binaries to spot insecure implementations and testing the workflow against real industrial firmware to document common vulnerability patterns.
+
+### Research Project — *May 2024 – July 2024*
+**Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**
+
+This project involved capturing and decoding communication between electronic keys and locks using a logic analyzer. I built Python tools to parse the protocol, identified weaknesses like static identifiers and predictable checksums, and demonstrated practical replay attacks. The research also explored cryptographic countermeasures through protocol timing analysis.
+
+---
+
+## Projects
+
+### [1-Wire Protocol Analysis & Attack Demo](https://github.com/towhidulahmed/1wire-decoder-analysis)
+
+Captured embedded communication between an electronic key and lock system, then built a Python decoder to extract and analyze the protocol structure. Identified vulnerabilities in proprietary hardware protocols through bit-level timing analysis. Demonstrated how static identifiers enable forwarding attacks.
+
+### [Bash Scripting Utilities](https://github.com/towhidulahmed/bash_scripting)
+
+Collection of practical Bash scripts for automation and security workflows:
+- **password_generator.sh** — Generates cryptographically strong passwords using OpenSSL
+- **script_backup.sh** — Automates Git commits and pushes for quick version control
+
+### [Vulnerability Assessment Lab](https://github.com/towhidulahmed/nessus-metasploit-audit)
+
+Performed a comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus, then followed up with Metasploit exploitation. Documented 71 vulnerabilities including critical backdoors and authentication issues. Includes detailed remediation recommendations and exploitability analysis—useful for learning vulnerability management workflows.
+
+---
+
+## Technical Skills
+
+**Threat Intelligence & Detection**  
+MISP · OpenCTI · MITRE ATT&CK · YARA · Snort
+
+**Network Analysis**  
+Wireshark · Zeek · Nmap · TShark · BRIM · NetworkMiner
+
+**Reverse Engineering**  
+Ghidra · Binwalk · Firmware extraction · ARM assembly (ARMv7)
+
+**Programming & Scripting**  
+Python · Bash scripting
+
+**Systems & Platforms**  
+Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)
+
+### TryHackMe Profile
+Ranked in the top 5% on TryHackMe — hands-on labs covering penetration testing, privilege escalation, and defensive security.
+
 <a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe" />
 </a>
 
-### 🕵️‍♂️ Cyber Threat Intelligence  
-MISP · OpenCTI · MITRE ATT&CK · YARA
+---
 
-### 🌐 Network Security  
-Wireshark · Zeek · Nmap · Snort · TShark · BRIM · NetworkMiner
+## Certifications & Training
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/2048px-Ghidra_logo.svg.png" width="24"/> Reverse Engineering  
-Ghidra · Binwalk · Firmware unpacking · Assembly (ARMv7)
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24"/>  Programming & Scripting  
-Bash · Python 
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24"/> Systems & Cloud  
- Kali Linux · Ubuntu · Windows  
- VirtualBox · VMware · Microsoft Azure (fundamentals)
-
+- **Blue Team Junior Analyst** — Security Blue Team  
+- **Reverse Engineering und Forensics** — University of Rostock
+- **IT Technical Support Fundamentals** — Coursera  
+- **A Deep Dive into SSL and TLS** — Udemy  
+- **Machine Learning with Python** — Coursera & IBM
 
 ---
 
-## 🧾 Certifications
-- Blue Team Junior Analyst — *Security Blue Team*  
-- Reverse Engineering und Forensics — *University Module*  
-- IT Technical Support Fundamentals — *Coursera*  
-- A Deep Dive into SSL and TLS — *Udemy*  
-- Machine Learning with Python — *Coursera & IBM*
-  
----
+## Languages
 
-## 🌐 Languages
-
-- **Bengali**: Native  
-- **English**: C1 — Fluent (written & spoken)  
-- **German**: A2 — Basic proficiency (in progress)
+- **Bengali** — Native speaker  
+- **English** — Fluent (C1 level)  
+- **German** — Basic proficiency (A2, currently improving)
 
