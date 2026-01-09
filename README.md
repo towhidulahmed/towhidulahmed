@@ -93,11 +93,7 @@ Git / GitHub
 
 Ranked in the top 5% worldwide (December 2025) — hands-on labs covering penetration testing, privilege escalation, and defensive security.
 
-<p align="center">
-  <a href="https://tryhackme.com/p/ahmedtowhid00" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="Your Image Badge" />
 
 ---
 
