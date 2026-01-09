@@ -89,12 +89,6 @@ Python · C · Bash scripting
 Kali Linux · Ubuntu · Windows · VirtualBox · VMware · Microsoft Azure (fundamentals)  
 Git / GitHub
 
-### TryHackMe Profile
-
-Ranked in the top 5% worldwide (December 2025) — hands-on labs covering penetration testing, privilege escalation, and defensive security.
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ahmedtowhid00.png" alt="Your Image Badge" />
-
 ---
 
 ## Certifications & Training
