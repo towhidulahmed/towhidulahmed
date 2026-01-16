@@ -30,9 +30,7 @@ Firmware analysis and communication protocol review (1-Wire, I2C) in operational
 
 ## Research & Academic Work
 
-### Master's Thesis — *April 2025 – September 2025*  
-🏅 **Grade: 1.0** (German grading scale)
-
+### 🏅 Master's Thesis — *April 2025 – September 2025* — **Grade: 1.0** (German grading scale)
 **Automated Detection of Vulnerable Firmware in OT Devices**
 
 Developed a signature-based system to automatically identify known CVEs in unpacked firmware images. Detected CVE-2015-4590 (ArduinoJson buffer overflow) in STM32 L476RG firmware with 76.7% accuracy via YARA signatures extracted from Ghidra. Explored Control Flow Graph isomorphism for cross-architecture vulnerability detection across STM32 and ESP8266 builds.
