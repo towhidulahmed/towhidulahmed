@@ -49,6 +49,14 @@ This project involved capturing and decoding communication between electronic ke
 
 ## Projects
 
+### [Automated Detection of Vulnerable Firmware in OT Devices](https://github.com/towhidulahmed/ot-firmware-vulnerability-detection)
+
+Automated detection system for identifying known CVEs in OT firmware binaries without source code access. Implemented dual detection approach: YARA signature-based scanning (76.7% accuracy, <10ms) and Control Flow Graph isomorphism for cross-architecture vulnerability identification. Successfully detected CVE-2015-4590 across ARM Cortex-M4 and Xtensa architectures using Ghidra.
+
+### [Keygen Reverse Engineering Challenge](https://github.com/towhidulahmed/keygen-reverse-engineering)
+
+Reverse engineered a stripped x86-64 ELF binary to understand its serial validation mechanism and created a working keygen. Used Ghidra to identify the algorithm that derives serial numbers from email addresses through mathematical operations. Reimplemented the validation logic in C to generate valid serials for any email address.
+
 ### [1-Wire Protocol Analysis & Attack Demo](https://github.com/towhidulahmed/1wire-decoder-analysis)
 
 Captured embedded communication between an electronic key and lock system, then built a Python decoder to extract and analyze the protocol structure. Identified vulnerabilities in proprietary hardware protocols through bit-level timing analysis. Demonstrated how static identifiers enable forwarding attacks.
@@ -62,14 +70,6 @@ Collection of practical Bash scripts for automation and security workflows:
 ### [Vulnerability Assessment Lab](https://github.com/towhidulahmed/nessus-metasploit-audit)
 
 Performed a comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus, then followed up with Metasploit exploitation. Documented 71 vulnerabilities including critical backdoors and authentication issues. Includes detailed remediation recommendations and exploitability analysis—useful for learning vulnerability management workflows.
-
-### [OT Firmware Vulnerability Detection](https://github.com/towhidulahmed/ot-firmware-vulnerability-detection)
-
-Automated detection system for identifying known CVEs in operational technology (OT) firmware binaries without source code access. Developed as part of my Master's thesis at University of Rostock. Implemented dual detection approach: YARA signature-based scanning (76.7% accuracy, <10ms) and Control Flow Graph isomorphism for cross-architecture vulnerability identification. Successfully detected CVE-2015-4590 (ArduinoJson buffer overflow) across ARM Cortex-M4 and Xtensa architectures. Built with Ghidra for reverse engineering and includes comprehensive tooling for automated CFG extraction and pattern matching.
-
-### [Keygen Reverse Engineering Challenge](https://github.com/towhidulahmed/keygen-reverse-engineering)
-
-Reverse engineered a stripped x86-64 ELF binary to understand its serial validation mechanism and created a working keygen. Used Ghidra to decompile and analyze the binary, identified the algorithm that derives serial numbers from email addresses through character-based mathematical operations. Reimplemented the validation logic in C to generate valid serials for any given email address. Demonstrates practical binary analysis skills including function identification in stripped executables, algorithm recovery, and code reconstruction.
 
 ---
 
