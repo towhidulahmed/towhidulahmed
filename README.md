@@ -30,7 +30,7 @@ Firmware analysis and communication protocol review (1-Wire, I2C) in operational
 
 ## Research & Academic Work
 
-### 🏅 Master's Thesis — *April 2025 – September 2025* — **Grade: 1.0** (German grading scale)
+### 🏅 Master's Thesis *(April 2025 – September 2025)* — **Grade: 1.0** (German grading scale)
 **Automated Detection of Vulnerable Firmware in OT Devices**
 
 Developed a signature-based system to automatically identify known CVEs in unpacked firmware images. Detected CVE-2015-4590 (ArduinoJson buffer overflow) in STM32 L476RG firmware with 76.7% accuracy via YARA signatures extracted from Ghidra. Explored Control Flow Graph isomorphism for cross-architecture vulnerability detection across STM32 and ESP8266 builds.
@@ -40,7 +40,7 @@ Developed a signature-based system to automatically identify known CVEs in unpac
 - Developed YARA rules achieving 76.7% detection accuracy (23 of 30 vulnerable builds), 0% false positives
 - Implemented CFG-based detection using graph isomorphism across ARM and Xtensa architectures
 
-### Research Project — *May 2024 – July 2024*
+### Research Project *(May 2024 – July 2024)*
 **Security Analysis of Mechatronic Locking Systems Using the 1-Wire Protocol**
 
 This project involved capturing and decoding communication between electronic keys and locks using a logic analyzer. I built Python tools to parse the protocol, identified weaknesses like static identifiers and predictable checksums, and demonstrated practical replay attacks. The research also explored cryptographic countermeasures through protocol timing analysis.
