@@ -71,6 +71,10 @@ Collection of practical Bash scripts for automation and security workflows:
 
 Performed a comprehensive vulnerability scan on Ubuntu 8.04.x using Nessus, then followed up with Metasploit exploitation. Documented 71 vulnerabilities including critical backdoors and authentication issues. Includes detailed remediation recommendations and exploitability analysis—useful for learning vulnerability management workflows.
 
+### [Malware-Traffic-Analysis.net Challenge Write-up (PCAP 2025-01-22)](https://github.com/towhidulahmed/malware-traffic-analysis-2025-01-22/)
+
+Analyzed a publicly available malware sample using Wireshark and PCAP analysis. Identified infected hosts, phishing infrastructure, and C2 endpoints through protocol and traffic forensics.
+
 ---
 
 ## Technical Skills
