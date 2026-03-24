@@ -1,6 +1,6 @@
 # Towhidul Ahmed
 
-**Junior SOC Analyst | Blue Team Defender | Security Researcher**
+**SOC Analyst | Blue Team Defender | Security Researcher**
 
 M.Sc. in Electrical Engineering & IT (Security Focus) — Cologne, Germany
 
@@ -40,7 +40,7 @@ PCAP analysis of a real-world malware sample. Identified infected hosts, phishin
 
 ## Research
 
-### 🏅 Master's Thesis — Grade: 1.0 (German scale)
+### 🏅 Master's Thesis - Grade: 1.0 (German scale)
 **Automated Detection of Vulnerable Firmware in OT Devices** *(Apr 2025 – Sep 2025)*
 
 Built a signature-based detection system to find known CVEs in unpacked firmware images. Reverse-engineered STM32 firmware in Ghidra, extracted machine code signatures, and wrote YARA rules that detected CVE-2015-4590 in 23 of 30 vulnerable builds with no false positives. Also implemented CFG-based detection using graph isomorphism across ARM and Xtensa architectures.
