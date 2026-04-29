@@ -6,7 +6,7 @@ M.Sc. in Electrical Engineering & IT (Security Focus) — Cologne, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towhidulahmed)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ahmedtowhid00)
-[![Portfolio](https://img.shields.io/badge/Portfolio-towhid.info-3a506b?style=flat&labelColor=1a2634&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVR42o1TW0tUYRRd33fmzMUZh9TR7CalY41jo6UZmdFoPXSl6EpFFES9Vb4U9FLHfkIQ9dxDJUZFYJBJQZIXSEgDC1PTROeSqeg4njMz5/t2D5akSLSeNnvvtTbsvTYwBxbUgpagFrRgERjYfBzUghZN0/jC+hKE5+8frmzqbfbHWbwq3Bcqcnvdz25eqH25ie2J/8WjeYGG6F1XR+fHA2JG2WmYqbLeqV6/Ad1t9Vgx9nQcet8scrZ4BrLXZdUvK0h/9PhU42cpJQNACgCU7QlslyprrMnfV5GRkbW68UejLZyIyOlkTPisfvJTMcJfo1k/w5M79Ujyku+Q1/7t3fe3OAGFA4BT2COGmE1aFaupkiqW8QySQvBCR6FlW26lEk5E+K4duyQbgaGPGtZEysgFgKA/yDgAXLHVDemzs6MTiTELiJjKFaYIBXnmOrR0tuB18xv09/dxf0mxRWc6OTLsnX92xqGB8xrFcMD+5cNEGzom28lkKaikYjw0DikFMj1uTMWmkUoKxelyMGe2rRcAcopziGvVGidI5LnXvh0I9eHTQDfZDRvSxpyYbp/BcrkGR/afRF6el4ykyUxmTsTSYz0A8OTEE8nrqiEB4GDF3iZnNN0M3Q8rP+9NUqx+BhQHUkkTZ46fwubyUpnw6OAFSlfzsfYfvy9OnLHbEhp4gauix1uQ3+5ZnwkYJMkQAAkImcL7tlaEhyPksqcjjTle/TaVMrcDAA3FDYwxRlVFVXdWleQyNdtKDpcDAIOqqhgcHaToRJRbdZtwDNlfAEA1quUCB2qaxomI36y/9mbLyQD5fN5kIOCj8gOlFLjsS5beKqId18sezDVj3s4LvM8Yk5P60MVQeKS1O9GzYqorJqUQQi1UVcRFxLmK3QCBoQ5L48+jtPY3bTx392jL1uMBKjnso9LbG4YrajdWLp7+TxHVouJ0w+7K8qu+8yVn83P+i7xYZGFyafIvxHo8VYERE38AAAAASUVORK5CYII=&logoColor=white)](https://www.towhid.info)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.towhid.info-3a506b?style=flat&labelColor=1a2634&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVR42o1TW0tUYRRd33fmzMUZh9TR7CalY41jo6UZmdFoPXSl6EpFFES9Vb4U9FLHfkIQ9dxDJUZFYJBJQZIXSEgDC1PTROeSqeg4njMz5/t2D5akSLSeNnvvtTbsvTYwBxbUgpagFrRgERjYfBzUghZN0/jC+hKE5+8frmzqbfbHWbwq3Bcqcnvdz25eqH25ie2J/8WjeYGG6F1XR+fHA2JG2WmYqbLeqV6/Ad1t9Vgx9nQcet8scrZ4BrLXZdUvK0h/9PhU42cpJQNACgCU7QlslyprrMnfV5GRkbW68UejLZyIyOlkTPisfvJTMcJfo1k/w5M79Ujyku+Q1/7t3fe3OAGFA4BT2COGmE1aFaupkiqW8QySQvBCR6FlW26lEk5E+K4duyQbgaGPGtZEysgFgKA/yDgAXLHVDemzs6MTiTELiJjKFaYIBXnmOrR0tuB18xv09/dxf0mxRWc6OTLsnX92xqGB8xrFcMD+5cNEGzom28lkKaikYjw0DikFMj1uTMWmkUoKxelyMGe2rRcAcopziGvVGidI5LnXvh0I9eHTQDfZDRvSxpyYbp/BcrkGR/afRF6el4ykyUxmTsTSYz0A8OTEE8nrqiEB4GDF3iZnNN0M3Q8rP+9NUqx+BhQHUkkTZ46fwubyUpnw6OAFSlfzsfYfvy9OnLHbEhp4gauix1uQ3+5ZnwkYJMkQAAkImcL7tlaEhyPksqcjjTle/TaVMrcDAA3FDYwxRlVFVXdWleQyNdtKDpcDAIOqqhgcHaToRJRbdZtwDNlfAEA1quUCB2qaxomI36y/9mbLyQD5fN5kIOCj8gOlFLjsS5beKqId18sezDVj3s4LvM8Yk5P60MVQeKS1O9GzYqorJqUQQi1UVcRFxLmK3QCBoQ5L48+jtPY3bTx392jL1uMBKjnso9LbG4YrajdWLp7+TxHVouJ0w+7K8qu+8yVn83P+i7xYZGFyafIvxHo8VYERE38AAAAASUVORK5CYII=&logoColor=white)](https://www.towhid.info)
 
 ---
 
@@ -53,14 +53,36 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 
 ## Skills
 
-| Area | Tools & Technologies |
-|---|---|
-| **SIEM & Detection** | Splunk, Elastic Stack (ELK), Wazuh, MISP, OpenCTI, MITRE ATT&CK |
-| **Malware Analysis** | Ghidra, YARA, sandbox environments, Windows Internals, ARM Assembly |
-| **Network Analysis** | Wireshark, Zeek, Nmap, Snort, TShark, BRIM, NetworkMiner |
-| **OT / Embedded** | Binwalk, Logic Analyzer, Oscilloscope, ST-Link, OpenOCD, 1-Wire, I2C |
-| **Programming** | Python, C, Bash |
-| **Platforms** | Kali Linux, Ubuntu, Windows, VirtualBox, VMware, Microsoft Azure, Git |
+<p align="center">
+  <img src="https://cdn.simpleicons.org/splunk/white" alt="Splunk" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/wazuh.png" alt="Wazuh" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/OISF.png" alt="Suricata" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/mitre-attack.png" alt="MITRE ATT&amp;CK" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_Splash.png" alt="Ghidra" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/yara-bright.png" alt="YARA" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snort" alt="Snort" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nmap.png" alt="Nmap" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/virtualbox/white" alt="VirtualBox" height="48"/>
+</p>
 
 ---
 
@@ -69,7 +91,7 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 | Certification | Provider |
 |---|---|
 | Blue Team Junior Analyst | Security Blue Team |
-| TryHackMe — Top 5% Worldwide (Dec 2025) | TryHackMe |
+| TryHackMe — Top 5% Worldwide (March 2026) | TryHackMe |
 | Reverse Engineering und Forensics | University of Rostock |
 | Vulnerability Management with Nessus | LinkedIn Learning |
 | Security Testing: Nmap Security Scanning | LinkedIn Learning |
@@ -157,4 +179,4 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 |---|---|
 | **Bengali** | Native |
 | **English** | Fluent (C1) |
-| **German** | A2 (actively developing) |
+| **German** | A2 (target B1 by August 2026) |
