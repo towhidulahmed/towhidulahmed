@@ -56,14 +56,14 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 <p align="center">
   <img src="https://cdn.simpleicons.org/splunk/white" alt="Splunk" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/wazuh.png" alt="Wazuh" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/suricata.png" alt="Suricata" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/suricata.png?v=2" alt="Suricata" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/mitre-attack.png" alt="MITRE ATT&amp;CK" height="48"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon64.png" alt="Ghidra" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/yara-bright.png" alt="YARA" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/wireshark.png" alt="Wireshark" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/towhidulahmed/towhidulahmed/main/assets/wireshark.png?v=2" alt="Wireshark" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snort" alt="Snort" height="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/nmap.png" alt="Nmap" height="48"/>
 </p>
