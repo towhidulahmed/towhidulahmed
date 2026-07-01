@@ -94,7 +94,7 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 | Certification | Provider |
 |---|---|
 | Blue Team Junior Analyst | Security Blue Team |
-| TryHackMe — Top 5% Worldwide (March 2026) | TryHackMe |
+| TryHackMe - Top 5% Worldwide (June 2026) | TryHackMe |
 | Reverse Engineering und Forensics | University of Rostock |
 | Vulnerability Management with Nessus | LinkedIn Learning |
 | Security Testing: Nmap Security Scanning | LinkedIn Learning |
