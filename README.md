@@ -1,6 +1,6 @@
 # Towhidul Ahmed
 
-**SOC Analyst | Blue Team Defender | Security Researcher**
+**Aspiring SOC Analyst | Blue Team Defender | Security Researcher**
 
 M.Sc. in Electrical Engineering & IT (Security Focus) — Cologne, Germany
 
@@ -12,9 +12,12 @@ M.Sc. in Electrical Engineering & IT (Security Focus) — Cologne, Germany
 
 ## About
 
-SOC analyst with a focus on alert triage, log correlation, incident handling, and threat detection. Recent M.Sc. graduate with hands-on experience across SIEM operations, malware analysis, network forensics, and OT/embedded security.
+I'm currently looking for a Junior SOC Analyst / Blue Team role. I enjoy alert triage, log correlation, and writing clear investigation notes that help teams respond faster.
 
-My background spans reverse engineering firmware binaries, analyzing protocol-level vulnerabilities in embedded systems, and building detection signatures for known CVEs. I work primarily with Splunk, Elastic Stack, Wazuh, Ghidra, and Wireshark.
+🔹 Recent M.Sc. graduate with hands-on experience across SIEM operations, malware analysis, network forensics, and OT/embedded security
+🔹 Background spans reverse engineering firmware binaries, analyzing protocol-level vulnerabilities, and building detection signatures for known CVEs
+🔹 Experienced with Splunk, Wazuh, Suricata, Wireshark, and Ghidra
+🔹 Based in Cologne, Germany 🇩🇪 and open to opportunities
 
 ---
 
