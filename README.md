@@ -29,7 +29,7 @@ Detection system for identifying known CVEs in OT firmware binaries without sour
 ### [Keygen Reverse Engineering](https://github.com/towhidulahmed/keygen-reverse-engineering)
 Reversed a stripped x86-64 ELF binary to recover its serial validation logic. Identified the algorithm in Ghidra and reimplemented it in C to generate valid serial keys from arbitrary email addresses.
 
-### [1-Wire Protocol Analysis](https://github.com/towhidulahmed/1wire-decoder-analysis)
+### [1-Wire Electronic Lock Protocol Reverse Engineering & Replay Attack](https://github.com/towhidulahmed/1wire-decoder-analysis)
 Captured and decoded communication between an electronic key and lock system using a logic analyzer. Built a Python decoder for the proprietary protocol, identified weaknesses in static identifiers and checksums, and demonstrated a practical replay attack.
 
 ### [Vulnerability Assessment Lab](https://github.com/towhidulahmed/nessus-metasploit-audit)
@@ -37,6 +37,9 @@ Scanned Ubuntu 8.04.x with Nessus, documented 71 vulnerabilities, and validated 
 
 ### [Malware Traffic Analysis Write-up](https://github.com/towhidulahmed/malware-traffic-analysis-2025-01-22/)
 PCAP analysis of a real-world malware sample. Identified infected hosts, phishing infrastructure, and C2 communication through Wireshark and protocol forensics.
+
+### [Advanced Cryptanalysis of an Electronic Locking System Protocol](https://github.com/towhidulahmed/cliq-protocol-cryptanalysis)
+Differential cryptanalysis of an electronic locking protocol across 23 captured sessions. Identified underlying hardware primitives (SHA-1 authentication and AES-128-CTR encryption) through statistical and entropy analysis.
 
 ---
 
