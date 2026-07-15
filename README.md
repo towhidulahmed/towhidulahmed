@@ -184,4 +184,4 @@ Captured and decoded key-lock communication with a logic analyzer. Built Python 
 |---|---|
 | **Bengali** | Native |
 | **English** | Fluent (C1) |
-| **German** | A2 (target B1 by August 2026) |
+| **German** | B1 |
