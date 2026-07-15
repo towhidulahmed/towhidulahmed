@@ -29,7 +29,7 @@ Detection system for identifying known CVEs in OT firmware binaries without sour
 ### [Keygen Reverse Engineering](https://github.com/towhidulahmed/keygen-reverse-engineering)
 Reversed a stripped x86-64 ELF binary to recover its serial validation logic. Identified the algorithm in Ghidra and reimplemented it in C to generate valid serial keys from arbitrary email addresses.
 
-### Reverse Engineering & Cryptanalysis of a 1-Wire Electronic Lock (2-Part Project)
+### [Reverse Engineering & Cryptanalysis of a 1-Wire Electronic Lock (2-Part Project)](#)
 Comprehensive security evaluation of an ASSA ABLOY VERSO CLIQ electronic locking system across two stages of research:
 - **[Part 1: Protocol Reverse Engineering & Replay Attack](https://github.com/towhidulahmed/1wire-decoder-analysis):** Captured and decoded communication using a logic analyzer. Built a Python decoder, identified weak static identifiers, and demonstrated a practical replay attack.
 - **[Part 2: Advanced Cryptanalysis & Primitives Identification](https://github.com/towhidulahmed/cliq-protocol-cryptanalysis):** Differential cryptanalysis across 23 captured sessions. Identified hardware primitives (SHA-1 authentication and AES-128-CTR encryption) through statistical and entropy analysis.
