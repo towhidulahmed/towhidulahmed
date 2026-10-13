@@ -2,7 +2,7 @@
 
 **Aspiring SOC Analyst | Blue Team Defender | Security Researcher**
 
-M.Sc. in Electrical Engineering & IT (Security Focus) — Cologne, Germany
+M.Sc. in Electrical Engineering & IT (Security Focus) - Cologne, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towhidulahmed)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ahmedtowhid00)
